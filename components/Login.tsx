@@ -50,8 +50,8 @@ export const Login: React.FC<LoginProps> = ({ onLogin, users }) => {
                         <div className="w-16 h-16 bg-blue-600 rounded-xl flex items-center justify-center mx-auto mb-4 shadow-lg shadow-blue-500/30">
                             <span className="font-bold text-white text-2xl">M</span>
                         </div>
-                        <h1 className="text-2xl font-bold text-white tracking-tight">ManuVest</h1>
-                        <p className="text-slate-400 text-sm mt-2">Manufacturing Budget & Investment System</p>
+                        <h1 className="text-2xl font-bold text-white tracking-tight">BIS</h1>
+                        <p className="text-slate-400 text-sm mt-2">Budget & Investment System</p>
                     </div>
                 </div>
 
