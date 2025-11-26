@@ -54,9 +54,9 @@ export const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) =>
         <div className="h-16 flex items-center px-6 border-b border-slate-800 justify-between">
             <div className="flex items-center">
                 <div className="w-8 h-8 bg-blue-600 rounded-md flex items-center justify-center mr-3">
-                    <span className="font-bold text-white">M</span>
+                    <span className="font-bold text-white">B</span>
                 </div>
-                <span className="font-bold text-lg tracking-tight text-white">ManuVest</span>
+                <span className="font-bold text-lg tracking-tight text-white">Budget & Investment System</span>
             </div>
             {/* Mobile Close Button */}
             <button onClick={toggleMobileMenu} className="md:hidden text-slate-400 hover:text-white">
