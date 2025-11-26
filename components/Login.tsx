@@ -48,7 +48,7 @@ export const Login: React.FC<LoginProps> = ({ onLogin, users }) => {
                     <div className="absolute top-0 left-0 w-full h-full bg-blue-600 opacity-10 transform -skew-y-12 origin-top-left scale-150"></div>
                     <div className="relative z-10">
                         <div className="w-16 h-16 bg-blue-600 rounded-xl flex items-center justify-center mx-auto mb-4 shadow-lg shadow-blue-500/30">
-                            <span className="font-bold text-white text-2xl">M</span>
+                            <span className="font-bold text-white text-2xl">B</span>
                         </div>
                         <h1 className="text-2xl font-bold text-white tracking-tight">BIS</h1>
                         <p className="text-slate-400 text-sm mt-2">Budget & Investment System</p>
